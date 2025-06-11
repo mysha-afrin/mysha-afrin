@@ -6,7 +6,7 @@ I'm an aspiring Cybersecurity Manager passionate about protecting systems and da
 🌐 Computer Networking<br>
 🖥️ Linux & System Security<br>
 🔍 Ethical Hacking & Threat Detection<br>
-🧠 About Me#
+<h>🧠 About Me<h><br>
 I believe in learning deeply, practicing consistently, and growing every day. My approach combines self-study, real-world problem solving, and a commitment to staying updated with emerging threats and technologies in the cybersecurity field.<br>
 
 <br>📚 Current Focus<br>
