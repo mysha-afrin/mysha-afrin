@@ -6,10 +6,10 @@ I'm an aspiring Cybersecurity Manager passionate about protecting systems and da
 🌐 Computer Networking<br>
 🖥️ Linux & System Security<br>
 🔍 Ethical Hacking & Threat Detection<br>
-🧠 About Me
+#🧠 About Me
 I believe in learning deeply, practicing consistently, and growing every day. My approach combines self-study, real-world problem solving, and a commitment to staying updated with emerging threats and technologies in the cybersecurity field.
 
-📚 Current Focus
+#📚 Current Focus
 Mastering core cybersecurity concepts and tools
 Building mini projects and scripts to automate security tasks
 Practicing Capture the Flag (CTF) challenges
