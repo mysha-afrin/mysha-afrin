@@ -1,24 +1,10 @@
 
-👋 Hi, I'm Mysha
+I'm Mysha
 I'm an aspiring Cybersecurity Manager passionate about protecting systems and data through continuous learning and hands-on practice. I’m currently building a strong foundation in computer science with a focus on:
 
 🐍 Python Programming<br>
 
-<h>🧠 About Me<h><br>
-I believe in learning deeply, practicing consistently, and growing every day. My approach combines self-study, real-world problem solving, and a commitment to staying updated with emerging threats and technologies in the cybersecurity field.<br>
-
-<br>📚 Current Focus<br>
-Mastering core cybersecurity concepts 
-📫 Let's Connect<br>
-Feel free to reach out or collaborate on any cybersecurity or tech-related project.
-📧 Email: myshaafrinjeba916@gmail.com
-
-One script, one system, one breakthrough at a time.
-# 💫 About Me:
-I am currently working on learning prohramming basics.My focus is to build a strong basic in programming and cybersecurity
-
-
-## 🌐 Socials:
+<
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mysha afrin jeba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myshaafrinjeba916@gmail.com) 
 
 # 💻 Tech Stack:
