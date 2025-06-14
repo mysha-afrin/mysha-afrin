@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -58,7 +57,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/notkuromiunu-center-div-center-div-html-gif-11729712825036110491"  />
+  <img height="200" src="https://media.tenor.com/oshPqu2e-psAAAAM/notkuromiunu-center-div.gif"  />
 </div>
 
 ###
