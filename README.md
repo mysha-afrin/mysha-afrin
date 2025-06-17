@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mysha Afrin Jeba and I'm  from Bangladesh .</p>
+<p align="left">My name is Mysha Afrin Jeba and I'm  from Bangladesh .I'm an aspiring Cybersecurity Manager passionate about protecting systems and data through continuous learning and hands-on practice. I’m currently building a strong foundation in computer science .</p>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ I am passionate about exploring advancements in tecnology<br>📚 I'm currently learning Python.<br>🎯 Goals: Mastaring programming and cybersecurity.</p>
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/oshPqu2e-psAAAAM/notkuromiunu-center-div.gif"  />
+</div>
+
+###
+
+<p align="left">I believe in learning deeply, practicing consistently, and growing every day. My approach combines self-study, real-world problem solving, and a commitment to staying updated with emerging threats and technologies in the cybersecurity field.</p>
 
 ###
 
@@ -38,19 +46,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/oshPqu2e-psAAAAM/notkuromiunu-center-div.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mysha-afrin/mysha-afrin/output/pacman-contribution-graph-dark.svg">
-  ![kbd_bg](https://github.com/user-attachments/assets/7a629ceb-15cb-4f9f-90b4-61570768f148)
-![image](https://github.com/user-attachments/assets/33d12c19-de26-4f0f-a92b-72a8106651cd)
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mysha-afrin/mysha-afrin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mysha-afrin/mysha-afrin/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
