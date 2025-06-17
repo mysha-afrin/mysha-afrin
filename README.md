@@ -50,5 +50,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mysha-afrin/mysha-afrin/output/pacman-contribution-graph-dark.svg">
-  
+  ![kbd_bg](https://github.com/user-attachments/assets/7a629ceb-15cb-4f9f-90b4-61570768f148)
+![image](https://github.com/user-attachments/assets/33d12c19-de26-4f0f-a92b-72a8106651cd)
+
 ###
