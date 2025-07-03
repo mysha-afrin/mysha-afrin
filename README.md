@@ -54,7 +54,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://tenor.com/view/smile-cute-cat-cat-stare-down-gif-5756839"  />
-</div>
-###
+
