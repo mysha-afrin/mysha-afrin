@@ -1,24 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<p align="left">My name is Mysha Afrin Jeba and I'm  from Bangladesh .I'm an aspiring Cybersecurity Manager passionate about protecting systems and data through continuous learning and hands-on practice. I’m currently building a strong foundation in computer science .</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media.tenor.com/oshPqu2e-psAAAAM/notkuromiunu-center-div.gif"  />
-</div>
-
-###
-
-<p align="left">I believe in learning deeply, practicing consistently, and growing every day. My approach combines self-study, real-world problem solving, and a commitment to staying updated with emerging threats and technologies in the cybersecurity field.</p>
 
 ###
 
