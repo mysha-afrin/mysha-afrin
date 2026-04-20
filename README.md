@@ -1,4 +1,4 @@
-<p>I am Mysha Afrin Jeba from Bangladesh. I am a backend developer.</p>
+<p>I am Mysha Afrin Jeba from Bangladesh.</p>
 
 
 
