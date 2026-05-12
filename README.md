@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mysha README</title>
-
-    <style>
-        body{
-            background: #f5f7fb;
-            font-family: Arial, Helvetica, sans-serif;
-            color: #222;
-            margin: 0;
-            padding: 40px;
-            line-height: 1.8;
+e-height: 1.8;
         }
 
         .container{
