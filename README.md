@@ -1,102 +1,49 @@
-e-height: 1.8;
-        }
+<h1 align="left">Hi, I'm Mysha 👋</h1>
 
-        .container{
-            max-width: 900px;
-            margin: auto;
-            background: white;
-            padding: 40px;
-            border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-        }
+###
 
-        
+<p align="left">My name is Mysha Afrin Jeba. An architecture fresher.</p>
 
-    <div class="container">
+###
 
-        <h1>Hi, I'm Mysha 👋</h1>
+<h2 align="left">Future Architect focused on BIM, AI & Technology-Driven Design 🇧🇩</h2>
 
-        <p>
-            <span class="highlight">
-                Future Architect focused on BIM, AI & Technology-Driven Design 🇧🇩
-            </span>
-        </p>
+###
 
-        <ul>
-            <li>🏆 Topped university admission exam</li>
-            <li>🎓 Incoming Architecture Student</li>
-            <li>🏗️ Building a future in modern architecture and digital design</li>
-            <li>💻 Learning technology to enhance architectural workflows</li>
-            <li>🌍 Goal: International-level architecture & tech-based design career</li>
-        </ul>
+<p align="left">🎓  Architecture Student<br>🏗️ Building a future in modern architecture and digital design<br>🤖 Interested in:<br>BIM<br>AI in Architecture<br>Computational Design<br>Architectural Visualization<br>Smart & Sustainable Design<br>💻 Learning technology to enhance architectural workflows<br>🌍 Goal: International-level architecture & tech-based design career</p>
 
-        <h2>🤖 Interested In</h2>
+###
 
-        <ul>
-            <li>BIM</li>
-            <li>AI in Architecture</li>
-            <li>Computational Design</li>
-            <li>Architectural Visualization</li>
-            <li>Smart & Sustainable Design</li>
-        </ul>
+<h2 align="left">I work with</h2>
 
-        <h2>🏛️ Current Focus</h2>
+###
 
-        <h3>Architecture</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-        <ul>
-            <li>Design Fundamentals</li>
-            <li>Architectural Graphics</li>
-            <li>Visualization</li>
-            <li>Space Planning</li>
-            <li>Sustainable Architecture</li>
-        </ul>
+###
 
-        <h3>Technology in Architecture</h3>
+  
+       
 
-        <ul>
-            <li>BIM Workflows</li>
-            <li>AI-Assisted Design</li>
-            <li>Parametric Modeling</li>
-            <li>Rendering & Visualization</li>
-            <li>Digital Architecture Tools</li>
-        </ul>
+     
+    
+         
 
-        <h2>🚀 Future Specialization Interests</h2>
-
-        <ul>
-            <li>BIM Specialist</li>
-            <li>Computational Designer</li>
-            <li>AI-Assisted Architecture</li>
-            <li>Architectural Technologist</li>
-            <li>Digital Design Strategist</li>
-            <li>Smart Building Systems</li>
-        </ul>
-
-        <h2>🛠️ Tools I Want to Master</h2>
-
-        <ul>
-            <li>AutoCAD</li>
-            <li>Revit</li>
-            <li>Rhino</li>
-            <li>Grasshopper</li>
-            <li>Blender</li>
-            <li>Unreal Engine</li>
-            <li>Adobe Suite</li>
-            <li>Python for Design Automation</li>
-        </ul>
-
-        <h2>🌟 Long-Term Vision</h2>
-
-        <div class="quote">
-            “Designing spaces with technology, intelligence,
-            and human-centered thinking.”
-        </div>
-
-    </div>
-
-</body>
-</html>
+   
 
 
 ###
