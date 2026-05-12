@@ -24,53 +24,7 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.08);
         }
 
-        h1{
-            font-size: 42px;
-            margin-bottom: 10px;
-        }
-
-        h2{
-            color: #5c6bc0;
-            margin-top: 40px;
-            border-bottom: 2px solid #e0e0e0;
-            padding-bottom: 10px;
-        }
-
-        p{
-            font-size: 18px;
-        }
-
-        ul{
-            padding-left: 25px;
-        }
-
-        li{
-            margin-bottom: 10px;
-            font-size: 17px;
-        }
-
-        .quote{
-            margin-top: 40px;
-            padding: 20px;
-            background: #eef2ff;
-            border-left: 5px solid #5c6bc0;
-            border-radius: 12px;
-            font-size: 20px;
-            font-style: italic;
-        }
-
-        .highlight{
-            color: #5c6bc0;
-            font-weight: bold;
-        }
-
-        .emoji{
-            font-size: 22px;
-        }
-    </style>
-</head>
-
-<body>
+        
 
     <div class="container">
 
