@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mysha Afrin Jeba. An architecture fresher.</p>
+<p align="left">My name is Mysha Afrin Jeba. An architecture student in Pabna University of Science and Technology,Pabna, Bangladesh.</p>
 
 ###
 
